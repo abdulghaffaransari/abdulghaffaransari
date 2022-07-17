@@ -7,7 +7,6 @@ As a data enthusiast, I have an undying love for the applications of Machine Lea
 I love working on projects involving Computer Vision, Time Series, and Python is my go-to language for programming. I am  on Medium with a mission to provide a structural understanding of Data Science
 
 I am aslo a Kaggle Contributer and love contributing to the community.
-
 https://www.kaggle.com/abdulghaffaransari
 <!---
 abdulghaffaransari/abdulghaffaransari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
