@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/88545317/179393625-84945152-37c4-43aa-85f4-b75e1e9ba06c.png)
+![image](https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/Why-Companies-Are-Vastly-Underprepared-For-The-Risks-Posed-By-AI/960x0.jpg?height=406&width=711&fit=bounds)
 
 In the dynamic realm of data science and artificial intelligence, I am a fervent explorer, driven by an insatiable passion for unlocking the potential hidden within data. With a keen eye for detail and a profound understanding of Machine Learning, Analytics, AI, and Deep Learning, I specialize in transforming raw information into actionable insights. My dedication to deciphering data intricacies empowers organizations to navigate the intricate landscape of decision-making, ultimately leading to profitability and success.
 
