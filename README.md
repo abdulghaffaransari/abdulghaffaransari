@@ -1,5 +1,3 @@
-Here's an updated and impressive README for your GitHub profile, incorporating your AWS certification and emphasizing your expertise:
-
 ---
 
 ![Data Science & AI](https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/Why-Companies-Are-Vastly-Underprepared-For-The-Risks-Posed-By-AI/960x0.jpg?height=406&width=711&fit=bounds)
@@ -25,5 +23,3 @@ Explore my work and contributions on [KAGGLE](https://www.kaggle.com/abdulghaffa
 ![Kaggle Profile](https://user-images.githubusercontent.com/88545317/182825263-a53f4e88-7ff0-48d8-8b8d-8cbeca0a263b.png)
 
 ---
-
-Feel free to adjust any parts as you see fit!
